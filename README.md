@@ -1,5 +1,6 @@
 # Profile
 Hi there 👋
+
 🌱 I’m currently learning C#, Vue.js and Azure.
 
 <p align="left">
@@ -12,12 +13,20 @@ Hi there 👋
 </p>
 
 # Summary
-
 <p align="left">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taokawarai&theme=solarized_dark" width=93.5%/></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=taokawarai&theme=tokyonight" width=92%/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=taokawarai&theme=tokyonight&show_icons=true&count_private=true" width=45% border="0"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taokawarai&layout=compact&theme=tokyonight&show_icons=true" width=45% border="0"/></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taokawarai&theme=solarized_dark" width=100%/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=taokawarai&theme=tokyonight" width=100%/></a>
+</p>
+
+# Skills
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/dd0aec6a-2c38-4142-8e6f-ce2cd61ea510"><img src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/4283ef18-993b-43b0-83b0-45c856110f25"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/78d67cc9-c18a-4a27-8e76-7d608a6a7c82"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/4c54f0f9-b282-481f-aaef-21262f91800f"><img src="https://images.credly.com/size/340x340/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/2a6923f9-e93c-4cf4-a5f3-da585759dc28"><img src="https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/c992ea95-86c1-4b65-bbeb-efb3e2d7de98"><img src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/6b1b940d-b2b6-4a25-9205-c0d22c6d7b04"><img src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="120" height="120"/></a>
 </p>
 
 <!--
@@ -58,5 +67,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
   <a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taokawarai&layout=compact&theme=tokyonight&show_icons=true"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=taokawarai&theme=tokyonight&show_icons=true&count_private=true"/></a>
 
 -->
