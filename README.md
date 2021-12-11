@@ -20,7 +20,7 @@ Hi there 👋
 
 # Skills
 <p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/dd0aec6a-2c38-4142-8e6f-ce2cd61ea510"><img src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/earner/earned/badge/dd0aec6a-2c38-4142-8e6f-ce2cd61ea510"><img src="./pics/azure-fundamentals-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/earner/earned/badge/4283ef18-993b-43b0-83b0-45c856110f25"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/earner/earned/badge/78d67cc9-c18a-4a27-8e76-7d608a6a7c82"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/earner/earned/badge/4c54f0f9-b282-481f-aaef-21262f91800f"><img src="https://images.credly.com/size/340x340/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png" width="120" height="120"/></a>
