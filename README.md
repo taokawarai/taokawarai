@@ -4,13 +4,15 @@ Hi there 👋
 🌱 I’m currently learning C#, Vue.js and Azure.
 
 <p align="left">
-  <a href="https://twitter.com/taokawarai"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftaokawarai"/></a>
-  <a href="https://twitter.com/taokawarai"><img src="https://img.shields.io/twitter/follow/taokawarai?style=social"/></a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=taokawarai" /></a>
-  <a href="https://qiita.com/pitao"><img src="https://qiita-badge.apiapi.app/s/pitao/posts.svg"/></a>
+  <a href="https://twitter.com/taokawarai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/taokawarai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=appveyor&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/tao.kawarai"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tao-kawarai-0b54a2201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://qiita.com/pitao"><img src="https://qiita-badge.apiapi.app/s/pitao/contributions.svg"/></a>
-  <a href="https://qiita.com/pitao"><img src="https://qiita-badge.apiapi.app/s/pitao/followers.svg"/></a>
+  <a href="https://www.buymeacoffee.com/taokawarai"><img src="https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label" /></a>
 </p>
+
+
 
 # Summary
 <p align="left">
@@ -27,6 +29,7 @@ Hi there 👋
   <a href="https://www.credly.com/badges/2a6923f9-e93c-4cf4-a5f3-da585759dc28/public_url"><img src="https://images.credly.com/size/340x340/images/edc0b0d8-55ec-4dfe-9353-22c1bc4e07e8/azure-database-administrator-associate-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/c992ea95-86c1-4b65-bbeb-efb3e2d7de98/public_url"><img src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/1d4433b0-2f46-4a5f-b466-d6c377416859/public_url"><img src="https://images.credly.com/size/340x340/images/5cc4fa32-c08f-43c5-ae31-3184e172ad34/CERT-Associate-Data-Analyst-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/0dcf020a-cf6e-4e2b-9ca3-bebaa3cf3bdc/public_url"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/6b1b940d-b2b6-4a25-9205-c0d22c6d7b04/public_url"><img src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="120" height="120"/></a>
 </p>
 
