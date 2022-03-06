@@ -1,7 +1,7 @@
 # Profile
 Hi there 👋
 
-🌱 I’m currently learning C#, Vue.js and Azure.
+🌱 I'm working at FIXER Inc. as a cloud solutions engineer. Specially, interested in Azure, C# and Vue.js.
 
 <p align="left">
   <a href="https://twitter.com/taokawarai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
