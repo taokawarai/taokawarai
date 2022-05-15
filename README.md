@@ -10,6 +10,7 @@ Hi there 👋
   <a href="https://www.linkedin.com/in/tao-kawarai-0b54a2201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://qiita.com/pitao"><img src="https://qiita-badge.apiapi.app/s/pitao/contributions.svg"/></a>
   <a href="https://www.buymeacoffee.com/taokawarai"><img src="https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label" /></a>
+  <a href="https://store.line.me/stickershop/product/10126905/ja" ><img src="https://img.shields.io/badge/line-original%20stamp-green" /></a>
 </p>
 
 
