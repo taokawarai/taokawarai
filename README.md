@@ -13,8 +13,6 @@ Hi there 👋
   <a href="https://store.line.me/stickershop/product/10126905/ja" ><img src="https://img.shields.io/badge/line-original%20stamp-green" /></a>
 </p>
 
-
-
 # Summary
 <p align="left">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taokawarai&theme=solarized_dark" width=100%/></a>
@@ -33,6 +31,17 @@ Hi there 👋
   <a href="https://www.credly.com/badges/0dcf020a-cf6e-4e2b-9ca3-bebaa3cf3bdc/public_url"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/6b1b940d-b2b6-4a25-9205-c0d22c6d7b04/public_url"><img src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="120" height="120"/></a>
 </p>
+
+# Writings
+- [Azure上のDBで無限ループクエリ叩いて泣きそうになった話（と対処法）](https://ascii.jp/elem/000/004/039/4039903/) | ASCII.jp · 2021年1月13日
+- [Liquid Template Language（Liquidテンプレート言語）って何者？](https://ascii.jp/elem/000/004/058/4058982/) | ASCII.jp · 2021年6月18日
+- [Power Appsポータルをコーディングでカスタマイズする方法、3つ！](https://ascii.jp/elem/000/004/060/4060586/) | ASCII.jp · 2021年6月29日
+- [Notionにダイアグラム図を挿入するならkroki.ioがおすすめ！](https://ascii.jp/elem/000/004/070/4070302/) | ASCII.jp · 2021年10月1日
+- [MCPを受験するなら今！ Ignite学習コンテンツや先着プレゼントがあるぞ](https://ascii.jp/elem/000/004/075/4075097/) | ASCII.jp · 2021年11月16日
+- [意外と嬉しい、Power Automateに追加されたコメント機能を紹介！](https://ascii.jp/elem/000/004/077/4077212/) | ASCII.jp · 2021年12月7日
+- [Azure上のPower BIでPV数の時系列データ予測をやってみた](https://ascii.jp/elem/000/004/083/4083587/) | ASCII.jp · 2022年2月17日
+- [クラウドETLのAzure Data Factoryを触ってみる](https://ascii.jp/elem/000/004/095/4095945/) | ASCII.jp · 2022年7月1日
+- [Microsoft Power Platformローコード開発[活用]入門 ――現場で使える業務アプリのレシピ集](https://www.amazon.co.jp/Microsoft-Power-Platformではじめるローコード開発-活用-――現場で使える業務アプリのレシピ集/dp/4297130041/ref=sr_1_2) | 技術評論社 · 2022年9月2日
 
 <!--
 **taokawarai/taokawarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
