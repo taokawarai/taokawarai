@@ -35,10 +35,7 @@ Hi there 👋
   <a href="https://www.credly.com/badges/aa5d805a-ba07-4b52-8efe-be9260abb525/public_url"><img src="https://images.credly.com/size/680x680/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/9ba29472-6172-4906-bda1-e632ea30b377/public_url"><img src="https://images.credly.com/size/680x680/images/5c20f0ae-176e-411e-9089-213572dba7ab/image.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/cf8794aa-a5cf-4e1d-8b9c-9e7088a5b695/public_url"><img src="https://images.credly.com/size/680x680/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png" width="120" height="120"/></a>
-  
-  
-  
-  
+  <a href="https://www.linkedin.com/posts/tao-kawarai-0b54a2201_%E5%BF%9C%E7%94%A8%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93%E5%90%88%E6%A0%BC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-activity-6946197471396003840-MX7C?utm_source=share&utm_medium=member_desktop"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/IPA_logo.png/600px-IPA_logo.png" width="120" height="120"/></a>
 </p>
 
 # Careers
