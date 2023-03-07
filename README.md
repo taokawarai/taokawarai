@@ -19,7 +19,7 @@ Hi there 👋
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=taokawarai&theme=tokyonight" width=100%/></a>
 </p>
 
-# Skills ✍️
+# ~Skills~ Badge Collection🏅
 <p align="left">
   <a href="https://www.credly.com/badges/dd0aec6a-2c38-4142-8e6f-ce2cd61ea510/public_url"><img src="./pics/azure-fundamentals-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/4283ef18-993b-43b0-83b0-45c856110f25/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="120" height="120"/></a>
@@ -30,6 +30,14 @@ Hi there 👋
   <a href="https://www.credly.com/badges/1d4433b0-2f46-4a5f-b466-d6c377416859/public_url"><img src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" width="120" height="120"/></a>  
   <a href="https://www.credly.com/badges/0dcf020a-cf6e-4e2b-9ca3-bebaa3cf3bdc/public_url"><img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/6b1b940d-b2b6-4a25-9205-c0d22c6d7b04/public_url"><img src="https://images.credly.com/size/340x340/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/de5c80d6-6375-4b63-b4d1-f3ae38b15d2d/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/1dc2107c-117c-44cc-98e9-d79e1c109217/public_url"><img src="https://images.credly.com/size/680x680/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/aa5d805a-ba07-4b52-8efe-be9260abb525/public_url"><img src="https://images.credly.com/size/680x680/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/9ba29472-6172-4906-bda1-e632ea30b377/public_url"><img src="https://images.credly.com/size/680x680/images/5c20f0ae-176e-411e-9089-213572dba7ab/image.png" width="120" height="120"/></a>
+  <a href="https://www.credly.com/badges/cf8794aa-a5cf-4e1d-8b9c-9e7088a5b695/public_url"><img src="https://images.credly.com/size/680x680/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png" width="120" height="120"/></a>
+  
+  
+  
   
 </p>
 
