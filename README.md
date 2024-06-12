@@ -43,6 +43,28 @@ Hi there 👋
 - Working at  <a href="https://www.fixer.co.jp/ja-jp/">FIXER Inc.</a> as a cloud solutions engineer 2020/04 ~ 2022/10.
 
 <!--
+<table border="1" cellspacing="0" cellpadding="10" style="width: 300px; margin: 20px auto; text-align: left;">
+    <tr>
+        <td>
+            <h2 style="margin: 0;">カードのタイトル</h2>
+            <p style="margin: 10px 0;">これはカードの内容です。ここに情報を追加します。</p>
+            <p style="margin: 10px 0;">さらに詳細な情報が必要な場合、ここに追加できます。</p>
+        </td>
+    </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="10" style="width: 200px; margin: 20px auto; text-align: left; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <tr>
+        <td>
+            <h2 style="margin: 0;">カードのタイトル</h2>
+          <a href="https://www.credly.com/badges/de5c80d6-6375-4b63-b4d1-f3ae38b15d2d/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="120" height="120" style="filter: grayscale(100%);" /></a>
+            <p style="margin: 10px 0;">これはカードの内容です。ここに情報を追加します。</p>
+            <p style="margin: 10px 0;">さらに詳細な情報が必要な場合、ここに追加できます。</p>
+        </td>
+    </tr>
+</table>
+
+
 **taokawarai/taokawarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
