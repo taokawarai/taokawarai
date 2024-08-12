@@ -19,7 +19,8 @@ Hi there 👋
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="left" src="https://github-profile-trophy.vercel.app/?username=taokawarai&theme=tokyonight" width=100%/></a>
 </p>
 
-# ~Skills~ Badge Collection🏅
+# Certificates
+
 <p align="left">
   <a href="https://www.credly.com/badges/dd0aec6a-2c38-4142-8e6f-ce2cd61ea510/public_url"><img src="./pics/azure-fundamentals-600x600.png" width="120" height="120"/></a>
   <a href="https://www.credly.com/badges/4283ef18-993b-43b0-83b0-45c856110f25/public_url"><img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="120" height="120"/></a>
